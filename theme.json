@@ -1,39 +1,39 @@
 {
   "name": "Cozy Vibes",
   "semanticColors": {
-    // Backgrounds
-    "BACKGROUND_PRIMARY": "#2A1E1A",      // Warm dark brown
-    "BACKGROUND_SECONDARY": "#3A2A24",    // Soft brown
-    "BACKGROUND_SECONDARY_ALT": "#4A3A34", // Slightly lighter brown
-    "BACKGROUND_TERTIARY": "#5A4A44",     // Warm medium brown
-    "BACKGROUND_ACCENT": "#8B5A2B",       // Cozy amber accent
-    "BACKGROUND_FLOATING": "#3A2A24",     // Matched secondary
+ 
+    "BACKGROUND_PRIMARY": "#2A1E1A",    
+    "BACKGROUND_SECONDARY": "#3A2A24",    
+    "BACKGROUND_SECONDARY_ALT": "#4A3A34",
+    "BACKGROUND_TERTIARY": "#5A4A44",     
+    "BACKGROUND_ACCENT": "#8B5A2B",     
+    "BACKGROUND_FLOATING": "#3A2A24", 
     
-    // Text
-    "TEXT_NORMAL": "#E8D8C8",             // Soft beige text
-    "TEXT_MUTED": "#C8B8A8",              // Muted warm gray
-    "TEXT_LINK": "#D4A373",               // Warm peachy link
-    "INTERACTIVE_NORMAL": "#D4A373",      // Interactive elements (amber)
-    "INTERACTIVE_HOVER": "#E8B884",       // Lighter on hover
+
+    "TEXT_NORMAL": "#E8D8C8",       
+    "TEXT_MUTED": "#C8B8A8",             
+    "TEXT_LINK": "#D4A373",           
+    "INTERACTIVE_NORMAL": "#D4A373",   
+    "INTERACTIVE_HOVER": "#E8B884",     
     
-    // Buttons & Controls
-    "BUTTON_BACKGROUND_PRIMARY": "#8B5A2B",  // Warm button
-    "BUTTON_BACKGROUND_PRIMARY_HOVER": "#A06A3B", // Brighter on hover
-    "BUTTON_OUTLINE_DANGER": "#FF6B6B",      // Soft red for warnings
+
+    "BUTTON_BACKGROUND_PRIMARY": "#8B5A2B", 
+    "BUTTON_BACKGROUND_PRIMARY_HOVER": "#A06A3B",
+    "BUTTON_OUTLINE_DANGER": "#FF6B6B",     
     
-    // Channels & Servers
-    "CHANNEL_ICON": "#D4A373",             // Amber channel icons
-    "CHANNELS_DEFAULT": "#C8B8A8",         // Muted text for channels
-    "GUILD_ICON_BACKGROUND": "#3A2A24",    // Matched secondary
+
+    "CHANNEL_ICON": "#D4A373",    
+    "CHANNELS_DEFAULT": "#C8B8A8",  
+    "GUILD_ICON_BACKGROUND": "#3A2A24",  
     
-    // Scrollbars & Inputs
-    "SCROLLBAR_THIN_THUMB": "#5A4A44",     // Subtle scrollbar
-    "INPUT_BACKGROUND": "#3A2A24",         // Warm input background
+
+    "SCROLLBAR_THIN_THUMB": "#5A4A44",    
+    "INPUT_BACKGROUND": "#3A2A24",      
     
-    // Status colors (softened)
-    "STATUS_GREEN": "#8FBC8F",             // Muted green (online)
-    "STATUS_YELLOW": "#E8B884",            // Warm yellow (idle)
-    "STATUS_RED": "#D47C6C",               // Soft red (dnd)
-    "STATUS_GREY": "#A8A098"               // Cozy gray (offline)
+ 
+    "STATUS_GREEN": "#8FBC8F",          
+    "STATUS_YELLOW": "#E8B884",         
+    "STATUS_RED": "#D47C6C",              
+    "STATUS_GREY": "#A8A098"              
   }
 }
